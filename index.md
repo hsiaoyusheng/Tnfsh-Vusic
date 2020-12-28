@@ -5,5 +5,5 @@
 </style>  
 <h1>Hello!</h1>
 <main>
-  <p>This is an amazing website</p>
+  <p>這是台南一中室內樂社的網站</p>
 </main>
